@@ -3,6 +3,8 @@
 
 ## Commands
 
+My bind: bind x "nb_delete_all; wait 5; sm_fake; wait 50; warp_all_survivors_to_checkpoint; wait 50; say !saferoom"; bind c "say !defib"
+
 * **`!saferoom`** — Run this inside the saferoom to mark the checkpoint destination for your team.
 * **`!defib`** — Teleports all other survivors to the `!saferoom` spot, locks the doors, kills you (or handles your existing death), and triggers the map transition to revive you at your outside position.
 * **`!forcedefib`** — Performs the same transition sequence as `!defib`, but skips finding and closing checkpoint doors (useful for custom maps without saferoom doors).
