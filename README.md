@@ -4,15 +4,11 @@
 
 ## My binds & Notes
 
-``bind x "nb_delete_all; wait 5; sm_fake; wait 50; warp_all_survivors_to_checkpoint; wait 50; say !saferoom"``
-
-``bind c "say !defib"``
+``bind x "nb_delete_all; wait 5; sm_fake; wait 50; warp_all_survivors_to_checkpoint; wait 50; say !saferoom"; bind c "say !defib"``
 
 After changing map, use `changelevel <mapname>` instead because `map <mapname>` would take kinda long to load.
 
-Use this when you are exploring the maps for tricks, skips only.
-
-When you are attempting a TAS, put this thing out of the `plugins` folder or put `sm plugins unload defib` in your console.
+Use this when you are exploring the maps for tricks, skips only. When you are attempting a TAS, put this thing out of the `plugins` folder or put `sm plugins unload defib` in your console.
 
 
 ## Commands
