@@ -30,6 +30,6 @@ When you are attempting a TAS, put this thing out of the `plugins` folder or put
 
 * **Core:** [SourceMod](https://www.sourcemod.net/), [MetaMod:Source](https://www.metamodsource.net/)
 * **Fake Players (Any of the following):**
-* [TAS-Kit for TLS by AP Gaming Sw1ft)](https://github.com/sw1ft747/TAS-Kit)
+* [TAS-Kit for TLS by AP Gaming Sw1ft](https://github.com/sw1ft747/TAS-Kit)
 * [Left4TAS for pre-TLS by AP Gaming Sw1ft](https://github.com/sw1ft747/Left4TAS)
 * [Speedrunner Tools by noa1mbot Shady](https://forums.alliedmods.net/showthread.php?t=304789)
