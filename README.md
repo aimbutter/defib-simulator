@@ -1,7 +1,7 @@
 
 # Defib Simulator 
 
-Video: https://youtu.be/e8Q9XYIeisg
+Video: (https://youtu.be/dXlBRJ-y9QE)
 
 ## My binds & Notes
 
